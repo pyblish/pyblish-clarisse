@@ -1,0 +1,16 @@
+#!/usr/bin/env python
+# coding=utf-8
+'''
+Author: zuokangbo
+Date: 2021-05-16 10:29:29
+'''
+
+VERSION_MAJOR = 0
+VERSION_MINOR = 1
+VERSION_PATCH = 0
+
+version_info = (VERSION_MAJOR, VERSION_MINOR, VERSION_PATCH)
+version = '%i.%i.%i' % version_info
+__version__ = version
+
+__all__ = ['version', 'version_info', '__version__']
