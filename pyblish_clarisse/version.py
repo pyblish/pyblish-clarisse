@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
-'''
-Author: zuokangbo
-Date: 2021-05-16 10:29:29
-'''
+
 
 VERSION_MAJOR = 0
 VERSION_MINOR = 1

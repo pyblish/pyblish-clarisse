@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
-'''
-Author: zuokangbo
-Date: 2021-05-16 14:34:36
-'''
+
 """This setup script packages pyblish-clarisse."""
 
 # Import built-in modules
