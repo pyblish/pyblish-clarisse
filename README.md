@@ -25,4 +25,4 @@ For example:
 
 Quick demo in clarisse
 --------------------
-![demo.gif](https://i.loli.net/2021/05/16/iu4Lo68e7S2BsyY.gif)
+![demo.gif](./doc/demo.gif)
